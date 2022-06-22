@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/oliviamckee/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^7.0.3"
   }
 }
